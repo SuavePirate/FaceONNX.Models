@@ -9,7 +9,7 @@
 * embeddings comparison and etc.  
 
 # References
-[Google.Drive](https://drive.google.com/drive/folders/1zfzHNeGju1r1-5vishZ--uaQNSorA0SJ?usp=sharing)  
+[Models: Google.Drive](https://drive.google.com/drive/folders/1zfzHNeGju1r1-5vishZ--uaQNSorA0SJ?usp=sharing)  
 [FaceONNX: C# implementation](https://github.com/FaceONNX/FaceONNX)  
 [FaceONNX: Python implementation](https://github.com/FaceONNX/pyfaceonnx)  
 
